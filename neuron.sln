@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "neuron", "neuron\neuron.vcxproj", "{1B585AC6-EF45-4703-A5A4-2D951F0FCB84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B585AC6-EF45-4703-A5A4-2D951F0FCB84}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B585AC6-EF45-4703-A5A4-2D951F0FCB84}.Debug|Win32.Build.0 = Debug|Win32
+		{1B585AC6-EF45-4703-A5A4-2D951F0FCB84}.Release|Win32.ActiveCfg = Release|Win32
+		{1B585AC6-EF45-4703-A5A4-2D951F0FCB84}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
