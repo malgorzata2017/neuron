@@ -1,0 +1,8 @@
+bin\Debug\Neural Network.exe
+bin\Debug\Neural Network.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Neural_Network.Form1.resources
+obj\Debug\Neural_Network.Properties.Resources.resources
+obj\Debug\Neural Network.csproj.GenerateResource.Cache
+obj\Debug\Neural Network.exe
+obj\Debug\Neural Network.pdb
